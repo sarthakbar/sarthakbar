@@ -1,4 +1,7 @@
-<img src="git1.png" alt="Sarthak Barik Banner" />
+<p align="center">
+  <img src="./banner.png" alt="Sarthak Barik Banner" width="100%" />
+</p>
+
 
 <img src="banner.png" />
 
