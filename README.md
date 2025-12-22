@@ -1,3 +1,5 @@
+<img src="git1.png" alt="Sarthak Barik Banner" />
+
 <img src="banner.png" />
 
 <h1 align="center">Hey there 👋, I'm Sarthak</h1>
