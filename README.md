@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./git1.png" alt="Sarthak Barik Banner" width="100%" />
+  <img src="./git2.png" alt="Sarthak Barik Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey there 👋, I'm Sarthak</h1>
