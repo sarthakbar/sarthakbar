@@ -2,9 +2,6 @@
   <img src="./git1.png" alt="Sarthak Barik Banner" width="100%" />
 </p>
 
-
-<img src="banner.png" />
-
 <h1 align="center">Hey there 👋, I'm Sarthak</h1>
 <h3 align="center">Java | Spring Boot | Backend Developer</h3>
 
