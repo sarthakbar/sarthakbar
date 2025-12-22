@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey there 👋, I'm Sarthak</h1>
-<h3 align="center">Java | Spring Boot | Backend Developer</h3>
+<h3 align="center">Java | Spring Boot | Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/">
