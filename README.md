@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Sarthak Barik Banner" width="100%" />
+  <img src="./git1.png" alt="Sarthak Barik Banner" width="100%" />
 </p>
 
 
