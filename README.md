@@ -17,7 +17,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 💻 Backend Developer focused on **Java & Spring Boot**
+- 💻 Full-Stack Developer focused on **Java & Spring Boot**
 - 🗄️ Strong in **SQL & Database Design**
 - ☁️ Learning **AWS & Docker**
 - 🐧 Comfortable with **Linux environments**
