@@ -26,7 +26,7 @@
 ---
 
 ## 🛠️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,linux,aws,docker,git)
+![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,linux,aws,docker,git,github,typescript,angular)
 
 ---
 
