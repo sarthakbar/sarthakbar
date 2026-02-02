@@ -39,4 +39,4 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/sarthakbar
-- LinkedIn: https://www.linkedin.com/
+- LinkedIn: linkedin.com/in/sarthak-barik-3b5448275
