@@ -32,13 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sarthakbar&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sarthakbar&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 <p align="center">
