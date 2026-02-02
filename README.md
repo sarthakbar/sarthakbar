@@ -32,8 +32,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=sarthakbar&show_icons=true&theme=dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sarthakbar&show_icons=true&theme=dark" />
 </p>
+
 
 ---
 
