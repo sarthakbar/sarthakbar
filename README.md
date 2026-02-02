@@ -1,9 +1,9 @@
+<h1 align="center">Hi 👋, I'm Sarthak Barik</h1>
+<h3 align="center">Java | Spring Boot | Full-Stack Developer</h3>
+
 <p align="center">
   <img src="git2.png" alt="Sarthak Barik Banner" width="100%" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Sarthak Barik</h1>
-<h3 align="center">Java | Spring Boot | Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarthak-barik-3b5448275" target="_blank">
